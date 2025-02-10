@@ -19,7 +19,7 @@ Welcome to the **Wrodle Game**! This is a simple word-guessing game inspired by 
 
 ## Installation & Setup
 1. Ensure you have Python installed on your system.
-2. Prepare a text file containing a list of five-letter words (one per line) and save it.
+2. Prepare a text file containing a list of five-letter words (one per line) and save it Or feel free to use the provided worlist.
 3. Update the file path in the script to point to your word list.
 4. Run the script using Python:
    ```sh
